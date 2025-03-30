@@ -16,6 +16,16 @@ SQL</br>
 Backend software I am familiar with:</br>
 Google Firebase</br>
 
+IDEs I am familiar with:</br>
+Eclipse</br>
+NetBeans</br>
+JetBrains</br>
+Visual Studio</br>
+
+Text Editors I am familiar with:</br>
+NotePad++</br>
+Visual Studio Code</br>
+
 <!--
 **JorHart/JorHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
