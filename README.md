@@ -1,5 +1,6 @@
 ## Hello
-test
+2024 Computer Science Graduate
+I have many repositories, but they have been mostly school related projects. As such they remain private. I have recently started to upload personal projects and languages I have been learning.
 
 <!--
 **JorHart/JorHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
