@@ -8,7 +8,6 @@ C#</br>
 Java</br>
 JavaScript</br>
 Python</br>
-PHP</br>
 
 Query language I am familar with:</br>
 SQL</br>
@@ -17,9 +16,7 @@ Backend software I am familiar with:</br>
 Google Firebase</br>
 
 IDEs I am familiar with:</br>
-Eclipse</br>
 NetBeans</br>
-JetBrains</br>
 Visual Studio</br>
 
 Text Editors I am familiar with:</br>
